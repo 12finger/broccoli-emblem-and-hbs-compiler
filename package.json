@@ -1,0 +1,29 @@
+{
+  "author": {
+    "name": "Patrick Kozma"
+  },
+  "name": "broccoli-emblem-compiler",
+  "description": "Emblem.js precompiler for projects that use broccoli",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/12finger/broccoli-emblem-and-hbs-compiler"
+  },
+  "keywords": [
+    "Ember.js",
+    "Handlebars.js",
+    "Emblem.js",
+    "Broccoli",
+    "broccoli-plugin"
+  ],
+  "main": "index.js",
+  "licenses": [
+    "MIT"
+  ],
+  "dependencies": {
+    "broccoli-filter": "~0.1.6",
+    "ember-template-compiler": "~1.5.0",
+    "emblem": "~0.3.14",
+    "js-string-escape": "^1.0.0"
+  }
+}
